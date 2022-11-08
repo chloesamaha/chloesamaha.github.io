@@ -1,0 +1,3 @@
+https://Chloesamaha.github.io/sitemap.xml
+User-agent: * C
+Allow: / C
